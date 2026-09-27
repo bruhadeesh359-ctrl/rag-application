@@ -58,4 +58,4 @@ This system implements robust boundaries between `System Instructions`, `User Qu
 
 - [Architecture & Design](docs/ARCHITECTURE.md)
 - [Observability Strategy](docs/OBSERVABILITY.md)
-- [Interview Preparation](docs/INTERVIEW_PREP.md)
+
