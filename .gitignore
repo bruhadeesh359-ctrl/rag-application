@@ -1,0 +1,17 @@
+
+# Node
+node_modules/
+dist/
+.DS_Store
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Database and Storage
+rag_observability.db
+chroma_db/
+sparse_index/
+

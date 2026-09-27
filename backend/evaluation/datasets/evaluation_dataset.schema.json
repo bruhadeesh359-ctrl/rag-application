@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Evaluation Dataset JSONL Schema",
+  "type": "object",
+  "properties": {
+    "query_id": {
+      "type": "string"
+    },
+    "query": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "relevant_chunk_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "relevant_document_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "reference_answer": {
+      "type": "string"
+    },
+    "expected_citations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": ["query_id", "query", "relevant_chunk_ids"]
+}

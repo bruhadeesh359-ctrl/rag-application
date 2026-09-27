@@ -1,0 +1,6 @@
+{
+  "retrieval_ms_p50": 0.0,
+  "retrieval_ms_p95": 0.9121656417846679,
+  "generation_ms_p50": 0.0,
+  "total_ms_p50": 0.0
+}

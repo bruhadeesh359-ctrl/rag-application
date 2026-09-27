@@ -1,0 +1,17 @@
+[
+  {
+    "query_id": "q001",
+    "error": "'str' object has no attribute 'chunk_id'",
+    "category": "RETRIEVAL_MISS"
+  },
+  {
+    "query_id": "q002",
+    "error": "'str' object has no attribute 'chunk_id'",
+    "category": "RETRIEVAL_MISS"
+  },
+  {
+    "query_id": "q003",
+    "error": "'str' object has no attribute 'chunk_id'",
+    "category": "RETRIEVAL_MISS"
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "experiment_id": "test_bm25",
+  "dataset_version": "evaluation/datasets/starter_dataset.jsonl",
+  "retriever_type": "bm25",
+  "llm_model": "none",
+  "seed": 42
+}

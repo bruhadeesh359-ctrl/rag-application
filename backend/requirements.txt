@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+aiosqlite
+pydantic
+python-multipart
+chromadb
+sentence-transformers
+rank-bm25
+pypdf
+python-docx
+markdown
+loguru
